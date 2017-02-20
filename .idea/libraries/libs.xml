@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/checkstyle-5.5-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/cobertura.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/asm-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/log4j-1.2.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/mockito-all-1.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/junit-4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/asm-tree-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jakarta-oro-2.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
